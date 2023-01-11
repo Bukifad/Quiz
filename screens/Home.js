@@ -47,8 +47,7 @@ const styles = StyleSheet.create({
     padding: 20,
     borderRadius: 16,
     alignItems: "center",
-    marginBottom:30,
-    
+    marginBottom: 30,
   },
   buttontext: {
     fontSize: 24,
